@@ -17,6 +17,22 @@ routine to treat something as already covered even though it never suggested it)
 
 ## History
 
+### 2026-07-09 — Curtis Mayfield – Curtis (soul/funk lane)
+
+**Why it fits:** This is the closest thing to a Marvin Gaye counterpart in your list — Mayfield's 1970 solo debut has the same lush, socially conscious orchestral-soul sweep as *What's Going On*, but with sharper wah-wah guitar and funk breaks that also echo Darondo's raw grit. It's the missing link between the Rumours-style warm production you like and the deep-soul anchors.
+
+**Tracks to hear first:** "(Don't Worry) If There's a Hell Below, We're All Going to Go" and "Move On Up."
+
+**Listen:** [Curtis Mayfield - Curtis (1970) Full Album](https://www.youtube.com/watch?v=Xn1HU6A6IKk)
+
+**Price & availability:** Readily available — Music On Vinyl/Rhino reissues run ~$25–35 new. Original 1970 Curtom pressings are rarer and pricier, typically $50–100+ depending on condition.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-09 — Fela Kuti & Africa '70 – Zombie (wildcard)
 
 **Why it fits:** This is the deliberate stretch pick — Afrobeat isn't soul/funk
