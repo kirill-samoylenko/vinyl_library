@@ -11,3 +11,4 @@ additions counts as already covered too, even if the routine never suggested it.
 ## History
 
 - 2026-07-07 — Terry Callier – What Color Is Love (soul/funk lane)
+- 2026-07-09 — J Dilla – Donuts (Nujabes/lo-fi lane)
