@@ -33,8 +33,9 @@ collector items ($150+). The Knitting Factory/Wrasse reissue is widely
 available and affordable, ~$25–35.
 
 **My thoughts:**
+Not a fun of afrobeats
 
-**Rating:** ☆☆☆☆☆
+**Rating:** ☆☆
 
 ---
 
@@ -52,8 +53,9 @@ samples turned into headphone-worthy instrumental hip-hop.
 $25–30 new. The original 2006 pressing is more collectible, $60–100+.
 
 **My thoughts:**
+Sounds goods. Nice old school groove, but not really my type. Too much rap going on there
 
-**Rating:** ☆☆☆☆☆
+**Rating:** ☆☆☆
 
 ---
 
