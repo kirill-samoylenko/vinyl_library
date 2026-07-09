@@ -14,6 +14,27 @@ routine to treat something as already covered even though it never suggested it)
 
 ## History
 
+### 2026-07-09 — Fela Kuti & Africa '70 – Zombie (wildcard)
+
+**Why it fits:** This is the deliberate stretch pick — Afrobeat isn't soul/funk
+or lo-fi hip-hop, but it's the closest thing to a bridge between them: the
+horn-driven, endlessly grooving rhythm section has the same raw analog punch
+as Darondo and Marvin Gaye, just stretched into 12-minute jams instead of
+3-minute songs. If you like sinking into a groove, this pushes that further
+than anything in your current rotation.
+
+**Tracks to hear first:** "Zombie" and "Mister Follow Follow."
+
+**Price & availability:** Original 1976/77 Nigerian pressings are rare
+collector items ($150+). The Knitting Factory/Wrasse reissue is widely
+available and affordable, ~$25–35.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-09 — J Dilla – Donuts (Nujabes/lo-fi lane)
 
 **Why it fits:** This is the direct lineage behind your Nujabes anchor — Dilla's
