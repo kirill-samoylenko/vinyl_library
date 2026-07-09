@@ -7,6 +7,9 @@ Before picking, it reads every entry below (including anything under Manual
 additions) and never repeats an album. It also alternates lanes: soul/funk
 anchor, Nujabes/lo-fi anchor, and occasional wildcards.
 
+Each entry includes a "Listen" line with a real YouTube link found via search
+(full album or playlist) — never a guessed/fabricated URL.
+
 ## Manual additions
 
 (add albums here yourself, same format as a History entry, if you want the
