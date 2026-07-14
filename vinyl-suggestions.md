@@ -1,3 +1,4 @@
+
 # Vinyl Suggestions History
 
 Used by the weekly "vinyl pick of the week" routine. No email — the routine
@@ -16,6 +17,22 @@ Each entry includes a "Listen" line with a real YouTube link found via search
 routine to treat something as already covered even though it never suggested it)
 
 ## History
+
+### 2026-07-14 — Nightmares on Wax – Smokers Delight (Nujabes/lo-fi lane)
+
+**Why it fits:** Closest to your Nujabes anchor — this 1995 Warp Records classic is the trip-hop/downtempo bridge between soul samples and instrumental hip-hop, all warm analog crackle and mellow grooves. Unlike Donuts, it's almost entirely instrumental with soulful vocal hooks instead of rap verses, so it should land closer to the chill, headphone-friendly mood of *Modal Soul* that you actually want from this lane.
+
+**Tracks to hear first:** "Les Nuits" and "Groove St."
+
+**Listen:** [Nightmares on Wax - Smokers Delight (Full Album)](https://www.youtube.com/watch?v=0-9t-jx3HJE)
+
+**Price & availability:** Readily available — the 2020 25th Anniversary Warp reissue (colored vinyl) runs ~$30-35, standard black reissues ~$25-30. The original 1995 UK pressing is a rarer collector's item, typically $60-100+ depending on condition.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
 
 ### 2026-07-09 — Curtis Mayfield – Curtis (soul/funk lane)
 
