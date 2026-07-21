@@ -17,6 +17,22 @@ routine to treat something as already covered even though it never suggested it)
 
 ## History
 
+### 2026-07-21 — Bill Withers – Still Bill (soul/funk lane)
+
+**Why it fits:** Closest to Marvin Gaye — *Still Bill* (1972) has the same lush, warm, socially-grounded soul feel, but Withers' front-porch intimacy and plainspoken delivery also echo Darondo's raw, unpolished honesty. It sits right alongside your two 5-star soul/funk picks (Curtis Mayfield, Terry Callier) in warmth and songcraft, just with a more stripped-down, acoustic-leaning groove closer to the analog warmth you like in Rumours.
+
+**Tracks to hear first:** "Use Me" and "Lean on Me."
+
+**Listen:** [Bill Withers "Still Bill" Full Album](https://www.youtube.com/watch?v=MtSN-LBIauA)
+
+**Price & availability:** Readily available — the Music On Vinyl 180g reissue runs ~$40-43 new. The original 1972 Sussex Records pressing is a rarer collector's item, typically $40-80+ depending on condition.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-16 — Cymande – Cymande (wildcard)
 
 **Why it fits:** Closest to Marvin Gaye and Darondo in spirit — this 1972 British funk debut has the same warm, horn-driven grooves and raw soulfulness, but folds in Caribbean nyahbinghi rhythms and extended jazz breaks that push it genuinely outside the straight soul/funk lane. It's also one of the most sampled records in hip-hop history (De La Soul, Wu-Tang, The Fugees), so it connects to the crate-digging DNA behind your Nujabes lane too, without repeating afrobeat's polyrhythmic feel that didn't land last time.
