@@ -25,27 +25,33 @@ Working notes, not user-facing. Update after each new rating.
   groove-based, warm, analog genres he already likes — think psych-soul,
   British folk-rock, Brazilian MPB/tropicalia (Jorge Ben, Os Mutantes), deep
   funk, or jazz-fusion — rather than genres far outside the groove/soul pocket.
-- **Nightmares on Wax – Smokers Delight**: rating pending (2026-07-14 pick,
-  chosen specifically per the Dilla feedback — near-instrumental trip-hop with
-  vocal hooks rather than rap verses).
-- **Cymande – Cymande**: rating pending (2026-07-16 pick, wildcard lane).
-  Deliberately picked as a groove-pocket-friendly wildcard (British funk/soul
-  with Caribbean nyahbinghi and jazz influence, heavily sampled in hip-hop)
-  rather than repeating the afrobeat misfire — watch the rating closely as a
-  read on whether "adjacent groove genres" work better as wildcards than
-  "far-out" ones.
+- **Nightmares on Wax – Smokers Delight**: rated 5/5 (2026-07-14 pick, chosen
+  per the Dilla feedback — near-instrumental trip-hop with vocal hooks rather
+  than rap verses). **Confirms the lo-fi lane rule: instrumental-forward,
+  minimal/no rap, works great.**
+- **Cymande – Cymande**: rated 5/5 (2026-07-16 wildcard pick — British
+  funk/soul with Caribbean nyahbinghi and jazz influence, heavily sampled in
+  hip-hop). **Confirms the wildcard rule: "adjacent groove genres" (funk-rooted,
+  even with an unusual rhythmic twist) land much better than "far-out" genres
+  like afrobeat.** Keep wildcards anchored in the groove/soul pocket.
+- **Bill Withers – Still Bill**: rating pending (2026-07-21 pick, soul/funk
+  lane — front-porch, acoustic-leaning soul intimacy, a slightly more
+  stripped-down flavor than Mayfield/Callier's orchestral sweep; worth
+  watching whether he prefers the lush/orchestral end of soul or is equally
+  into the sparser, bluesier end).
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
-Wax) → wildcard (Cymande, 2026-07-16). The routine cycles through the three
-lanes in a steady soul/funk → lo-fi → wildcard order; next pick should be
-soul/funk lane again.
+Wax) → wildcard (Cymande) → soul/funk (Bill Withers, 2026-07-21). The routine
+cycles through the three lanes in a steady soul/funk → lo-fi → wildcard order;
+next pick (after Bill Withers) should be lo-fi lane again.
 
 ## Ideas bank for future picks
-- Soul/funk lane: Donny Hathaway (Everything Is Everything), Bill Withers
-  (Still Bill), Minnie Riperton (Come to My Garden), Roy Ayers (Everybody
-  Loves the Sunshine), Rotary Connection, early Al Green, Bobby Womack.
+- Soul/funk lane: Donny Hathaway (Everything Is Everything), Minnie Riperton
+  (Come to My Garden), Roy Ayers (Everybody Loves the Sunshine), Rotary
+  Connection, early Al Green, Bobby Womack. (Bill Withers – Still Bill used
+  2026-07-21.)
 - Nujabes/lo-fi lane (favor instrumental-forward): Bonobo (Days to Come),
   DJ Krush (Kakusei), Emancipator, Jinsang, Fila Brazillia, Fat Jon,
   Marumari, Shigeto.
