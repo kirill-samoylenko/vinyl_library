@@ -9,17 +9,15 @@ Working notes, not user-facing. Update after each new rating.
 - Marvin Gaye (lush orchestral soul)
 
 ## Signal from ratings so far
-- **Loves** (5/5): Curtis Mayfield – Curtis, Terry Callier – What Color Is Love.
-  Both are lush, orchestral, socially-aware deep soul close to Marvin Gaye/Darondo.
-  Soul/funk lane is working well — keep picking in this vein (Donny Hathaway,
-  Bill Withers, Rotary Connection, Minnie Riperton, Roy Ayers, early Al Green).
+- **Loves** (5/5): Curtis Mayfield – Curtis, Terry Callier – What Color Is Love,
+  Bill Withers – Still Bill, Cymande – Cymande, Nightmares on Wax – Smokers
+  Delight. Soul/funk lane is a near-guaranteed hit — keep picking in this vein
+  (Donny Hathaway, Rotary Connection, Minnie Riperton, Roy Ayers, early Al
+  Green, Bobby Womack).
 - **Meh** (3/5): J Dilla – Donuts. Liked the groove/production but said "too
   much rap going on there... not really my type." **Key takeaway: for the
   Nujabes/lo-fi lane, favor more purely instrumental picks (or minimal/no rap
-  vocals) over rap-forward boom-bap.** Think trip-hop/downtempo/instrumental
-  hip-hop: Nightmares on Wax, Bonobo, DJ Krush, Emancipator, Jinsang, Fila
-  Brazillia — rather than MC-driven records (Pete Rock & CL Smooth, Gang
-  Starr, etc.).
+  vocals) over rap-forward boom-bap.**
 - **Disliked** (2/5): Fela Kuti – Zombie. Said "Not a fan of afrobeats."
   **Avoid afrobeat as a wildcard direction.** Wildcards should stay closer to
   groove-based, warm, analog genres he already likes — think psych-soul,
@@ -34,28 +32,35 @@ Working notes, not user-facing. Update after each new rating.
   hip-hop). **Confirms the wildcard rule: "adjacent groove genres" (funk-rooted,
   even with an unusual rhythmic twist) land much better than "far-out" genres
   like afrobeat.** Keep wildcards anchored in the groove/soul pocket.
-- **Bill Withers – Still Bill**: rating pending (2026-07-21 pick, soul/funk
-  lane — front-porch, acoustic-leaning soul intimacy, a slightly more
-  stripped-down flavor than Mayfield/Callier's orchestral sweep; worth
-  watching whether he prefers the lush/orchestral end of soul or is equally
-  into the sparser, bluesier end).
+- **Bill Withers – Still Bill**: rated 5/5 (2026-07-21 pick, soul/funk lane).
+  Confirms he's equally into the sparser, front-porch/acoustic end of soul as
+  the lush orchestral end (Mayfield/Callier) — the soul/funk lane is broad
+  and reliably safe territory across sub-styles.
+- **Emancipator – Soon It Will Be Cold Enough**: rating pending (2026-07-23
+  pick, lo-fi lane — fully instrumental downtempo, directly tied to Nujabes:
+  he discovered it, remixed the tracklist, and released it on his own label
+  Hydeout Productions in 2008). This is about as literal an application of
+  the "instrumental-forward" rule as it gets; worth watching whether the
+  live-instrument (violin/guitar) folktronica texture, vs. more sample-based
+  productions like Nightmares on Wax, changes how it lands for him.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
-Wax) → wildcard (Cymande) → soul/funk (Bill Withers, 2026-07-21). The routine
-cycles through the three lanes in a steady soul/funk → lo-fi → wildcard order;
-next pick (after Bill Withers) should be lo-fi lane again.
+Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator,
+2026-07-23). The routine cycles through the three lanes in a steady
+soul/funk → lo-fi → wildcard order; next pick (after Emancipator) should be
+the wildcard lane again.
 
 ## Ideas bank for future picks
 - Soul/funk lane: Donny Hathaway (Everything Is Everything), Minnie Riperton
   (Come to My Garden), Roy Ayers (Everybody Loves the Sunshine), Rotary
-  Connection, early Al Green, Bobby Womack. (Bill Withers – Still Bill used
-  2026-07-21.)
+  Connection, early Al Green, Bobby Womack. (Curtis Mayfield, Terry Callier,
+  Bill Withers used.)
 - Nujabes/lo-fi lane (favor instrumental-forward): Bonobo (Days to Come),
-  DJ Krush (Kakusei), Emancipator, Jinsang, Fila Brazillia, Fat Jon,
-  Marumari, Shigeto.
+  DJ Krush (Kakusei), Jinsang, Fila Brazillia, Fat Jon, Marumari, Shigeto,
+  Kero One. (Nightmares on Wax, Emancipator used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
   (Africa Brasil), Os Mutantes, War, Rare Earth, Steely Dan (Aja — jazz-rock
   fusion, same warm 1977 analog era as Rumours), Herbie Hancock (Head
-  Hunters) as a jazz-fusion stretch. (Cymande used 2026-07-16.)
+  Hunters) as a jazz-fusion stretch. (Cymande used.)

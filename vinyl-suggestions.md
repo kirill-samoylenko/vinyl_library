@@ -17,6 +17,22 @@ routine to treat something as already covered even though it never suggested it)
 
 ## History
 
+### 2026-07-23 — Emancipator – Soon It Will Be Cold Enough (Nujabes/lo-fi lane)
+
+**Why it fits:** This is about as close to the Nujabes anchor as a pick can get without repeating him directly — Nujabes himself discovered this self-released 2006 debut, gave it a professional mixdown, resequenced the tracklist, and put it out on his own label, Hydeout Productions, in 2008. It's fully instrumental downtempo/trip-hop built from live violin, guitar, and warm samples, following the "instrumental-forward, minimal/no rap" rule that Nightmares on Wax nailed for you and Donuts didn't.
+
+**Tracks to hear first:** "Soon It Will Be Cold Enough to Build Fires" and "First Snow."
+
+**Listen:** [Emancipator - Soon It Will Be Cold Enough (Full Album)](https://www.youtube.com/watch?v=LXaeQw96Fx4)
+
+**Price & availability:** Readily available — the 2022 2xLP repress runs ~$25 direct from Emancipator's store (Loci Records), or ~$30-35 through other retailers. It's a modern record with regular repress runs, not a rare original — Discogs resale prices run higher mainly due to demand, not scarcity.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-21 — Bill Withers – Still Bill (soul/funk lane)
 
 **Why it fits:** Closest to Marvin Gaye — *Still Bill* (1972) has the same lush, warm, socially-grounded soul feel, but Withers' front-porch intimacy and plainspoken delivery also echo Darondo's raw, unpolished honesty. It sits right alongside your two 5-star soul/funk picks (Curtis Mayfield, Terry Callier) in warmth and songcraft, just with a more stripped-down, acoustic-leaning groove closer to the analog warmth you like in Rumours.
