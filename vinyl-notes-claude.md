@@ -36,21 +36,27 @@ Working notes, not user-facing. Update after each new rating.
   Confirms he's equally into the sparser, front-porch/acoustic end of soul as
   the lush orchestral end (Mayfield/Callier) — the soul/funk lane is broad
   and reliably safe territory across sub-styles.
-- **Emancipator – Soon It Will Be Cold Enough**: rating pending (2026-07-23
-  pick, lo-fi lane — fully instrumental downtempo, directly tied to Nujabes:
-  he discovered it, remixed the tracklist, and released it on his own label
-  Hydeout Productions in 2008). This is about as literal an application of
-  the "instrumental-forward" rule as it gets; worth watching whether the
-  live-instrument (violin/guitar) folktronica texture, vs. more sample-based
-  productions like Nightmares on Wax, changes how it lands for him.
+- **Emancipator – Soon It Will Be Cold Enough**: rating still blank as of the
+  2026-07-28 pick (no thoughts/rating filled in yet after a week) — worth
+  checking next time whether the live-instrument (violin/guitar) folktronica
+  texture landed differently than sample-based lo-fi like Nightmares on Wax.
+- **Herbie Hancock – Head Hunters**: rating pending (2026-07-28 pick, wildcard
+  lane). Chosen specifically to apply both hard-won lessons at once: fully
+  instrumental jazz-funk (no rap, learned from Donuts) and squarely in the
+  warm/groove pocket rather than a "far-out" genre (learned from Fela Kuti).
+  Also doubles as a lo-fi-lane bridge since it's foundational sampling
+  material for hip-hop. Worth watching whether jazz-fusion (more soloing,
+  less song-form than Cymande/Withers) still lands as a 5, or whether the
+  wildcard sweet spot is specifically "groove records with vocals/hooks"
+  rather than instrumental jazz jamming.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
-Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator,
-2026-07-23). The routine cycles through the three lanes in a steady
-soul/funk → lo-fi → wildcard order; next pick (after Emancipator) should be
-the wildcard lane again.
+Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
+wildcard (Herbie Hancock, 2026-07-28). The routine cycles through the three
+lanes in a steady soul/funk → lo-fi → wildcard order; next pick should return
+to the soul/funk lane.
 
 ## Ideas bank for future picks
 - Soul/funk lane: Donny Hathaway (Everything Is Everything), Minnie Riperton
@@ -62,5 +68,5 @@ the wildcard lane again.
   Kero One. (Nightmares on Wax, Emancipator used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
   (Africa Brasil), Os Mutantes, War, Rare Earth, Steely Dan (Aja — jazz-rock
-  fusion, same warm 1977 analog era as Rumours), Herbie Hancock (Head
-  Hunters) as a jazz-fusion stretch. (Cymande used.)
+  fusion, same warm 1977 analog era as Rumours). (Cymande, Herbie Hancock
+  Head Hunters used.)
