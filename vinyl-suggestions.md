@@ -17,6 +17,22 @@ routine to treat something as already covered even though it never suggested it)
 
 ## History
 
+### 2026-07-28 — Herbie Hancock – Head Hunters (wildcard)
+
+**Why it fits:** This is the deliberate stretch pick, but kept squarely in the groove pocket per the "avoid afrobeat" lesson — Head Hunters (1973) is jazz-fusion, closest in spirit to Marvin Gaye's lush warmth and Darondo's raw funk bottom end, just filtered through Herbie's clavinet and Fender Rhodes instead of vocals. It's fully instrumental (no rap, unlike the Donuts letdown) and is one of the most sampled records in hip-hop history, so it also threads back into the Nujabes/lo-fi lane's sampling DNA without repeating it directly.
+
+**Tracks to hear first:** "Chameleon" and "Watermelon Man."
+
+**Listen:** [Herbie Hancock - Head Hunters (Full Album, 1973)](https://www.youtube.com/watch?v=X-Gyp4PyDLk)
+
+**Price & availability:** Readily available — standard 180g reissues (Sony/Legacy or similar) run ~$25-35 new, with premium Analogue Productions audiophile pressings at ~$50-90. It was a platinum-selling crossover hit, so original 1973 Columbia pressings are common and affordable too, typically $15-40 depending on condition — not a rare pressing to chase.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-23 — Emancipator – Soon It Will Be Cold Enough (Nujabes/lo-fi lane)
 
 **Why it fits:** This is about as close to the Nujabes anchor as a pick can get without repeating him directly — Nujabes himself discovered this self-released 2006 debut, gave it a professional mixdown, resequenced the tracklist, and put it out on his own label, Hydeout Productions, in 2008. It's fully instrumental downtempo/trip-hop built from live violin, guitar, and warm samples, following the "instrumental-forward, minimal/no rap" rule that Nightmares on Wax nailed for you and Donuts didn't.
