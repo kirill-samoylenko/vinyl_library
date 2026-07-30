@@ -37,32 +37,33 @@ Working notes, not user-facing. Update after each new rating.
   the lush orchestral end (Mayfield/Callier) — the soul/funk lane is broad
   and reliably safe territory across sub-styles.
 - **Emancipator – Soon It Will Be Cold Enough**: rating still blank as of the
-  2026-07-28 pick (no thoughts/rating filled in yet after a week) — worth
-  checking next time whether the live-instrument (violin/guitar) folktronica
-  texture landed differently than sample-based lo-fi like Nightmares on Wax.
-- **Herbie Hancock – Head Hunters**: rating pending (2026-07-28 pick, wildcard
-  lane). Chosen specifically to apply both hard-won lessons at once: fully
-  instrumental jazz-funk (no rap, learned from Donuts) and squarely in the
-  warm/groove pocket rather than a "far-out" genre (learned from Fela Kuti).
-  Also doubles as a lo-fi-lane bridge since it's foundational sampling
-  material for hip-hop. Worth watching whether jazz-fusion (more soloing,
-  less song-form than Cymande/Withers) still lands as a 5, or whether the
-  wildcard sweet spot is specifically "groove records with vocals/hooks"
-  rather than instrumental jazz jamming.
+  2026-07-30 pick (no thoughts/rating filled in after two weeks) — worth
+  checking whether the live-instrument (violin/guitar) folktronica texture
+  landed differently than sample-based lo-fi like Nightmares on Wax, or
+  whether he's just been slower to log ratings lately.
+- **Herbie Hancock – Head Hunters**: rating still blank as of the 2026-07-30
+  pick. Was chosen to apply both hard-won lessons at once (fully instrumental
+  jazz-funk, squarely in the warm/groove pocket) — worth watching whether
+  jazz-fusion soloing still lands as a 5, or whether the wildcard sweet spot
+  is specifically "groove records with vocals/hooks."
+- **Donny Hathaway – Everything Is Everything**: rating pending (2026-07-30
+  pick, soul/funk lane). Picked as a near-direct Marvin Gaye analog — same
+  lush gospel-rooted vocal warmth, jazzier chords, heavily sampled by later
+  hip-hop producers. Very likely another safe 5/5 given the soul/funk lane's
+  track record; worth confirming.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
 Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
-wildcard (Herbie Hancock, 2026-07-28). The routine cycles through the three
-lanes in a steady soul/funk → lo-fi → wildcard order; next pick should return
-to the soul/funk lane.
+wildcard (Herbie Hancock) → soul/funk (Donny Hathaway, 2026-07-30). The
+routine cycles through the three lanes in a steady soul/funk → lo-fi →
+wildcard order; next pick should return to the lo-fi lane.
 
 ## Ideas bank for future picks
-- Soul/funk lane: Donny Hathaway (Everything Is Everything), Minnie Riperton
-  (Come to My Garden), Roy Ayers (Everybody Loves the Sunshine), Rotary
-  Connection, early Al Green, Bobby Womack. (Curtis Mayfield, Terry Callier,
-  Bill Withers used.)
+- Soul/funk lane: Rotary Connection, Minnie Riperton (Come to My Garden),
+  Roy Ayers (Everybody Loves the Sunshine), early Al Green, Bobby Womack.
+  (Curtis Mayfield, Terry Callier, Bill Withers, Donny Hathaway used.)
 - Nujabes/lo-fi lane (favor instrumental-forward): Bonobo (Days to Come),
   DJ Krush (Kakusei), Jinsang, Fila Brazillia, Fat Jon, Marumari, Shigeto,
   Kero One. (Nightmares on Wax, Emancipator used.)
