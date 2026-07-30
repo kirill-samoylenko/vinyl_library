@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-07-30 — Donny Hathaway – Everything Is Everything (soul/funk lane)
+
+**Why it fits:** Closest to Marvin Gaye — Hathaway's 1970 sophomore album pairs the same lush, gospel-rooted vocal warmth with jazzier chord voicings and Latin-tinged percussion, landing right between the orchestral sweep of *What's Going On* and the front-porch intimacy you loved on Bill Withers' *Still Bill*. It's also a foundational sample source for the boom-bap/crate-digging lineage behind your Nujabes anchor, so it quietly touches that lane too without leaving the soul/funk pocket.
+
+**Tracks to hear first:** "Voices Inside (Everything Is Everything)" and "Thank You Master (For My Soul)."
+
+**Listen:** [Donny Hathaway - Everything Is Everything -1970 (FULL ALBUM)](https://www.youtube.com/watch?v=MKdr0fk84Hg)
+
+**Price & availability:** Readily available — standard 180g reissues (various pressings from the 2010s–2020s) run roughly $25–30, with premium audiophile editions (Analogue Productions' Atlantic 75 Series 45rpm 2LP, Speakers Corner) at $60–90+. Original 1970 Atlantic pressings surface too and are more of a collector's item, typically landing in a similar $25–55 range depending on condition — no single steep rarity premium to chase here.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-28 — Herbie Hancock – Head Hunters (wildcard)
 
 **Why it fits:** This is the deliberate stretch pick, but kept squarely in the groove pocket per the "avoid afrobeat" lesson — Head Hunters (1973) is jazz-fusion, closest in spirit to Marvin Gaye's lush warmth and Darondo's raw funk bottom end, just filtered through Herbie's clavinet and Fender Rhodes instead of vocals. It's fully instrumental (no rap, unlike the Donuts letdown) and is one of the most sampled records in hip-hop history, so it also threads back into the Nujabes/lo-fi lane's sampling DNA without repeating it directly.
