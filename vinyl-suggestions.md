@@ -12,8 +12,8 @@ Each entry includes a "Listen" line with a real YouTube link found via search
 
 ## Manual additions
 
-(add albums here yourself, same format as a History entry, if you want the
-routine to treat something as already covered even though it never suggested it)
+Mark Morrison – Return of the Mack
+Great vibe overall! I only skipped a few tracks when the vibe didn't quite match or there was a bit too much rap, but that barely happened. Super warm sound and really nice vocals.
 
 ## History
 
