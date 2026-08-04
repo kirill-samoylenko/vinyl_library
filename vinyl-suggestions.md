@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-04 — Bonobo – Days to Come (Nujabes/lo-fi lane)
+
+**Why it fits:** Closest to your Nujabes anchor — Simon Green's 2006 breakthrough is built from the same jazzy, sample-based downtempo blueprint as *Modal Soul*, layering warm live strings and woodwinds over mellow breakbeats. It's instrumental-forward with only occasional guest vocals (per the "avoid rap-forward" lesson from Donuts), and leans on stronger melodic hooks than Emancipator's more ambient folktronica, which should help it avoid landing as "boring."
+
+**Tracks to hear first:** "Days to Come" (feat. Bajka) and "Nothing Owed."
+
+**Listen:** [Bonobo - Days To Come (Full Album)](https://www.youtube.com/watch?v=oV4pyWGYV8c)
+
+**Price & availability:** Readily available — Ninja Tune has repressed it several times (2011, 2021 2xLP, a 2022 clear vinyl limited run), typically running $25–43 depending on edition. The original 2006 UK pressing is a bit rarer but not a steep premium, landing in a similar $25–45 range.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-07-30 — Donny Hathaway – Everything Is Everything (soul/funk lane)
 
 **Why it fits:** Closest to Marvin Gaye — Hathaway's 1970 sophomore album pairs the same lush, gospel-rooted vocal warmth with jazzier chord voicings and Latin-tinged percussion, landing right between the orchestral sweep of *What's Going On* and the front-porch intimacy you loved on Bill Withers' *Still Bill*. It's also a foundational sample source for the boom-bap/crate-digging lineage behind your Nujabes anchor, so it quietly touches that lane too without leaving the soul/funk pocket.
