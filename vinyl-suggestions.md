@@ -28,8 +28,8 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 **Price & availability:** Readily available — standard 180g reissues (various pressings from the 2010s–2020s) run roughly $25–30, with premium audiophile editions (Analogue Productions' Atlantic 75 Series 45rpm 2LP, Speakers Corner) at $60–90+. Original 1970 Atlantic pressings surface too and are more of a collector's item, typically landing in a similar $25–55 range depending on condition — no single steep rarity premium to chase here.
 
 **My thoughts:**
-
-**Rating:** ☆☆☆☆☆
+In the moment, I wanted a more modern sound. This one just feels pretty outdated to me.
+**Rating:** ☆☆☆
 
 ---
 
@@ -60,8 +60,8 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 **Price & availability:** Readily available — the 2022 2xLP repress runs ~$25 direct from Emancipator's store (Loci Records), or ~$30-35 through other retailers. It's a modern record with regular repress runs, not a rare original — Discogs resale prices run higher mainly due to demand, not scarcity.
 
 **My thoughts:**
-
-**Rating:** ☆☆☆☆☆
+Good sound, but nothing really stands out or catches your ear. Honestly a bit boring.
+**Rating:** ☆☆☆
 
 ---
 
