@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-06 — Steely Dan – Aja (wildcard)
+
+**Why it fits:** Closest to Fleetwood Mac — this is the same 1977 breed of immaculate, warm analog studio rock, cut by many of the same LA session players, but filtered through jazz chord voicings and horn charts instead of pop-rock hooks. It's the deliberate stretch pick outside the soul/funk and lo-fi lanes, but stays firmly in the groove pocket per the "avoid afrobeat" lesson — "Peg" and "Josie" are forward-driving funk-rock grooves, not slow orchestral balladry, and the album leans on top-tier soul/jazz session musicians (plus Michael McDonald on backing vocals) rather than pulling far outside the pocket.
+
+**Tracks to hear first:** "Peg" and "Josie."
+
+**Listen:** [Steely Dan - Aja (Full Album)](https://www.youtube.com/watch?v=tigLvVwKcKc)
+
+**Price & availability:** Readily available — the UMe 180g reissue runs ~$25–30 new (list SRP $29.99). It was a multi-platinum hit, so original 1977 ABC Records pressings are common and affordable too, typically $15–40 depending on condition — not a rare pressing to chase.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-04 — Bonobo – Days to Come (Nujabes/lo-fi lane)
 
 **Why it fits:** Closest to your Nujabes anchor — Simon Green's 2006 breakthrough is built from the same jazzy, sample-based downtempo blueprint as *Modal Soul*, layering warm live strings and woodwinds over mellow breakbeats. It's instrumental-forward with only occasional guest vocals (per the "avoid rap-forward" lesson from Donuts), and leans on stronger melodic hooks than Emancipator's more ambient folktronica, which should help it avoid landing as "boring."

@@ -56,14 +56,23 @@ Working notes, not user-facing. Update after each new rating.
   Come" vocal hook with Bajka) than Emancipator's more ambient folktronica.
   Worth confirming whether "more standout hooks" is the right fix, or whether
   the lo-fi lane just isn't landing as strong as soul/funk regardless.
+- **Steely Dan – Aja**: rating pending (2026-08-06 pick, wildcard lane).
+  Picked to directly answer the Fleetwood Mac anchor (immaculate 1977 analog
+  studio rock, overlapping LA session-player pool) while staying in the
+  groove pocket — "Peg"/"Josie" are forward-driving funk-rock, not slow
+  balladry, learning from the Hathaway note. Also tests whether "classic
+  rock with soul influence" (an anchor that's gotten less direct attention
+  than the three soul/funk-adjacent anchors) is its own promising wildcard
+  vein — yacht rock/jazz-rock/AOR with a soul/jazz backbone.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
 Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
 wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo,
-2026-08-04). The routine cycles through the three lanes in a steady
-soul/funk → lo-fi → wildcard order; next pick should be a wildcard.
+2026-08-04) → wildcard (Steely Dan, 2026-08-06). The routine cycles through
+the three lanes in a steady soul/funk → lo-fi → wildcard order; next pick
+should be soul/funk.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -76,6 +85,7 @@ soul/funk → lo-fi → wildcard order; next pick should be a wildcard.
   driven, less ambient than Emancipator). (Nightmares on Wax, Emancipator,
   Bonobo used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
-  (Africa Brasil), Os Mutantes, War, Rare Earth, Steely Dan (Aja — jazz-rock
-  fusion, same warm 1977 analog era as Rumours). (Cymande, Herbie Hancock
-  Head Hunters used.)
+  (Africa Brasil), Os Mutantes, War, Rare Earth, Little Feat, Boz Scaggs
+  (Silk Degrees — the other half of the "Aja" session-player/yacht-rock
+  pocket, if the classic-rock-with-soul-influence vein lands well).
+  (Cymande, Herbie Hancock Head Hunters, Steely Dan Aja used.)
