@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-11 — Roy Ayers Ubiquity – Everybody Loves the Sunshine (soul/funk lane)
+
+**Why it fits:** Closest to Marvin Gaye's lush warmth, but Ayers' vibraphone-led jazz-funk keeps the rhythm section punchy and groove-forward rather than slipping into slow orchestral balladry — the exact lesson learned from the Donny Hathaway pick. The title track and "Running Away" are pure sunshine-soul hooks, and this 1976 session is one of the most sampled records in hip-hop (A Tribe Called Quest, Mary J. Blige), quietly tying back into the Nujabes/crate-digging lineage the way Cymande did.
+
+**Tracks to hear first:** "Everybody Loves the Sunshine" and "Running Away."
+
+**Listen:** [Roy Ayers Ubiquity "Everybody Loves The Sunshine" [Full Album]](https://www.youtube.com/playlist?list=PLnopXb9fCtcleRVUVrrGNF8FIwsPsHllL)
+
+**Price & availability:** Readily available — it was a crossover hit, so original 1976 Polydor pressings are common and affordable, typically $20–40 depending on condition. A 2023 anniversary reissue on yellow/"lemonade" vinyl (Real Gone Music/Vampisoul) is also in print, running ~$28–30 new.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-06 — Steely Dan – Aja (wildcard)
 
 **Why it fits:** Closest to Fleetwood Mac — this is the same 1977 breed of immaculate, warm analog studio rock, cut by many of the same LA session players, but filtered through jazz chord voicings and horn charts instead of pop-rock hooks. It's the deliberate stretch pick outside the soul/funk and lo-fi lanes, but stays firmly in the groove pocket per the "avoid afrobeat" lesson — "Peg" and "Josie" are forward-driving funk-rock grooves, not slow orchestral balladry, and the album leans on top-tier soul/jazz session musicians (plus Michael McDonald on backing vocals) rather than pulling far outside the pocket.
