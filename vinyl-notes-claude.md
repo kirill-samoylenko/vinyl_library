@@ -13,7 +13,7 @@ Working notes, not user-facing. Update after each new rating.
   Bill Withers – Still Bill, Cymande – Cymande, Nightmares on Wax – Smokers
   Delight, Herbie Hancock – Head Hunters (no written thoughts, but 5/5). Soul/
   funk lane is a near-guaranteed hit — keep picking in this vein (Rotary
-  Connection, Minnie Riperton, Roy Ayers, early Al Green, Bobby Womack).
+  Connection, Minnie Riperton, Bobby Womack).
 - **Meh** (3/5): J Dilla – Donuts ("too much rap going on there... not really
   my type"), Emancipator – Soon It Will Be Cold Enough ("nothing really
   stands out... honestly a bit boring"), Donny Hathaway – Everything Is
@@ -24,16 +24,16 @@ Working notes, not user-facing. Update after each new rating.
      (minimal/no rap) — but ALSO make sure there are real melodic hooks/
      standout moments. Ambient/atmospheric textures that don't stand out
      (Emancipator) land as "boring" even though they're technically on-genre.
-  2. **New signal (2026-07-30): "outdated"-sounding classic soul is a risk.**
-     Donny Hathaway is a stone-cold classic and a near-perfect anchor match
-     on paper, but got dinged for feeling dated where Curtis Mayfield/Terry
-     Callier/Bill Withers/Cymande all landed as 5/5 despite being similarly
-     vintage (1970-72). The difference may be production polish/energy
-     rather than era — Mayfield/Callier/Withers/Cymande all have a sharper,
-     punchier low end or more forward rhythm section than Hathaway's more
-     orchestral, ballad-heavy Everything Is Everything. Consider leaning
-     soul/funk picks toward punchier, groove-forward records over slower,
-     string-laden balladry, even within the same decade.
+  2. **"Outdated"-sounding classic soul is a risk.** Donny Hathaway is a
+     stone-cold classic and a near-perfect anchor match on paper, but got
+     dinged for feeling dated where Curtis Mayfield/Terry Callier/Bill
+     Withers/Cymande all landed as 5/5 despite being similarly vintage
+     (1970-72). The difference may be production polish/energy rather than
+     era — Mayfield/Callier/Withers/Cymande all have a sharper, punchier low
+     end or more forward rhythm section than Hathaway's more orchestral,
+     ballad-heavy Everything Is Everything. Lean soul/funk picks toward
+     punchier, groove-forward records over slower, string-laden balladry,
+     even within the same decade.
 - **Disliked** (2/5): Fela Kuti – Zombie. Said "Not a fan of afrobeats."
   **Avoid afrobeat as a wildcard direction.** Wildcards should stay closer to
   groove-based, warm, analog genres he already likes — think psych-soul,
@@ -64,21 +64,32 @@ Working notes, not user-facing. Update after each new rating.
   rock with soul influence" (an anchor that's gotten less direct attention
   than the three soul/funk-adjacent anchors) is its own promising wildcard
   vein — yacht rock/jazz-rock/AOR with a soul/jazz backbone.
+- **Roy Ayers Ubiquity – Everybody Loves the Sunshine**: rating pending
+  (2026-08-11 pick, soul/funk lane). Chosen explicitly per the Hathaway
+  lesson — vibraphone-led jazz-funk with a punchy, danceable rhythm section
+  rather than slow orchestral balladry, closest to the Marvin Gaye anchor.
+  Also one of the most sampled 70s soul/funk records in hip-hop (Tribe
+  Called Quest, Mary J. Blige), so it's a good test of whether "heavily
+  sampled + groove-forward" soul/funk records are the sweet spot across both
+  lanes, the way Cymande worked as a wildcard.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
 Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
-wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo,
-2026-08-04) → wildcard (Steely Dan, 2026-08-06). The routine cycles through
-the three lanes in a steady soul/funk → lo-fi → wildcard order; next pick
-should be soul/funk.
+wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
+wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity, 2026-08-11). The
+routine cycles through the three lanes in a steady soul/funk → lo-fi →
+wildcard order; next pick should be lo-fi (Nujabes lane).
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
   balladry — see Hathaway note): Rotary Connection, Minnie Riperton (Come to
-  My Garden), Roy Ayers (Everybody Loves the Sunshine), early Al Green, Bobby
-  Womack. (Curtis Mayfield, Terry Callier, Bill Withers, Donny Hathaway used.)
+  My Garden — note this one leans lush/orchestral like Hathaway, so treat as
+  a slight risk unless picked for a change of pace), early Al Green, Bobby
+  Womack (Communication/Understanding — grittier, closer to Darondo).
+  (Curtis Mayfield, Terry Callier, Bill Withers, Donny Hathaway, Roy Ayers
+  Ubiquity used.)
 - Nujabes/lo-fi lane (favor instrumental-forward AND melodically memorable,
   not just atmospheric): DJ Krush (Kakusei), Jinsang, Fila Brazillia, Fat
   Jon, Marumari, Shigeto, Kero One, RJD2 (Deadringer — funkier/breakbeat-
