@@ -72,15 +72,26 @@ Working notes, not user-facing. Update after each new rating.
   Called Quest, Mary J. Blige), so it's a good test of whether "heavily
   sampled + groove-forward" soul/funk records are the sweet spot across both
   lanes, the way Cymande worked as a wildcard.
+- **RJD2 – Deadringer**: rating pending (2026-08-13 pick, Nujabes/lo-fi
+  lane). Picked as the second attempt to answer the Emancipator "boring"
+  complaint, but from a different angle than Bonobo — instead of adding
+  stronger melodic hooks to an ambient downtempo base, this goes funkier and
+  more breakbeat-driven (closer to DJ Shadow/RJD2's crate-digging,
+  scratch-heavy style) with mostly instrumental tracks and only a couple of
+  guest MC verses. Worth comparing against Bonobo's rating once both land:
+  if RJD2 also lands as "meh," the lo-fi lane itself may just underperform
+  soul/funk for him regardless of hooks-vs-energy fixes, and future lo-fi
+  picks might need an even bigger swing (e.g. toward jazzier live-instrument
+  hip-hop like Kero One or DJ Krush rather than sample-collage downtempo).
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 → wildcard (Fela Kuti) → soul/funk (Curtis Mayfield) → lo-fi (Nightmares on
 Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
 wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
-wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity, 2026-08-11). The
-routine cycles through the three lanes in a steady soul/funk → lo-fi →
-wildcard order; next pick should be lo-fi (Nujabes lane).
+wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
+Deadringer, 2026-08-13). The routine cycles through the three lanes in a
+steady soul/funk → lo-fi → wildcard order; next pick should be wildcard.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -92,9 +103,8 @@ wildcard order; next pick should be lo-fi (Nujabes lane).
   Ubiquity used.)
 - Nujabes/lo-fi lane (favor instrumental-forward AND melodically memorable,
   not just atmospheric): DJ Krush (Kakusei), Jinsang, Fila Brazillia, Fat
-  Jon, Marumari, Shigeto, Kero One, RJD2 (Deadringer — funkier/breakbeat-
-  driven, less ambient than Emancipator). (Nightmares on Wax, Emancipator,
-  Bonobo used.)
+  Jon, Marumari, Shigeto, Kero One. (Nightmares on Wax, Emancipator,
+  Bonobo, RJD2 used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
   (Africa Brasil), Os Mutantes, War, Rare Earth, Little Feat, Boz Scaggs
   (Silk Degrees — the other half of the "Aja" session-player/yacht-rock
