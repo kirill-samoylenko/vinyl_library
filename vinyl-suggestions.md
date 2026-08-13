@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-13 — RJD2 – Deadringer (Nujabes/lo-fi lane)
+
+**Why it fits:** Closest to your Nujabes anchor — this 2002 Definitive Jux debut is built from the same soulful-sample-into-instrumental-hip-hop blueprint as *Modal Soul*, but leans funkier and more breakbeat-driven than Emancipator's ambient folktronica (the "boring" note) or Bonobo's downtempo strings. It's mostly instrumental with a couple of guest MC verses, not a rap-forward record, so it should sit closer to the "instrumental-forward but with real hooks" sweet spot than Donuts did.
+
+**Tracks to hear first:** "Final Frontier" and "Ghostwriter."
+
+**Listen:** [RJD2 - Deadringer (2002) (Full Album)](https://www.youtube.com/watch?v=joOeYN5F1AA)
+
+**Price & availability:** Readily available — recent colored-vinyl reissues (2015, 2021, 2024) run roughly $30–35 new. The original 2002 Definitive Jux pressing is more of a collector's item, typically landing in the $35–90 range on the secondary market depending on condition.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-11 — Roy Ayers Ubiquity – Everybody Loves the Sunshine (soul/funk lane)
 
 **Why it fits:** Closest to Marvin Gaye's lush warmth, but Ayers' vibraphone-led jazz-funk keeps the rhythm section punchy and groove-forward rather than slipping into slow orchestral balladry — the exact lesson learned from the Donny Hathaway pick. The title track and "Running Away" are pure sunshine-soul hooks, and this 1976 session is one of the most sampled records in hip-hop (A Tribe Called Quest, Mary J. Blige), quietly tying back into the Nujabes/crate-digging lineage the way Cymande did.
