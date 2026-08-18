@@ -49,40 +49,39 @@ Working notes, not user-facing. Update after each new rating.
   the lush orchestral end (Mayfield/Callier) — the soul/funk lane is broad
   and reliably safe territory across sub-styles, AS LONG AS the groove stays
   forward-driving rather than slow/orchestral (see Hathaway note above).
-- **Bonobo – Days to Come**: rating pending (2026-08-04 pick, Nujabes/lo-fi
-  lane). Chosen specifically to answer the Emancipator "boring" complaint —
-  same jazzy sample-based downtempo mood as Modal Soul, but with stronger,
-  more memorable melodic hooks (glockenspiel/marimba motifs, the "Days to
-  Come" vocal hook with Bajka) than Emancipator's more ambient folktronica.
-  Worth confirming whether "more standout hooks" is the right fix, or whether
-  the lo-fi lane just isn't landing as strong as soul/funk regardless.
-- **Steely Dan – Aja**: rating pending (2026-08-06 pick, wildcard lane).
-  Picked to directly answer the Fleetwood Mac anchor (immaculate 1977 analog
-  studio rock, overlapping LA session-player pool) while staying in the
-  groove pocket — "Peg"/"Josie" are forward-driving funk-rock, not slow
-  balladry, learning from the Hathaway note. Also tests whether "classic
-  rock with soul influence" (an anchor that's gotten less direct attention
-  than the three soul/funk-adjacent anchors) is its own promising wildcard
-  vein — yacht rock/jazz-rock/AOR with a soul/jazz backbone.
-- **Roy Ayers Ubiquity – Everybody Loves the Sunshine**: rating pending
-  (2026-08-11 pick, soul/funk lane). Chosen explicitly per the Hathaway
-  lesson — vibraphone-led jazz-funk with a punchy, danceable rhythm section
-  rather than slow orchestral balladry, closest to the Marvin Gaye anchor.
-  Also one of the most sampled 70s soul/funk records in hip-hop (Tribe
-  Called Quest, Mary J. Blige), so it's a good test of whether "heavily
-  sampled + groove-forward" soul/funk records are the sweet spot across both
-  lanes, the way Cymande worked as a wildcard.
+- **Bonobo – Days to Come**: rated 5/5 (2026-08-04 pick, Nujabes/lo-fi lane).
+  Confirms the fix for the Emancipator "boring" complaint — adding stronger,
+  more memorable melodic hooks (the "Days to Come" vocal hook with Bajka,
+  glockenspiel/marimba motifs) to the same jazzy sample-based downtempo mood
+  worked. **The lo-fi lane isn't weak on its own; it just needs standout
+  hooks, not pure atmosphere.**
+- **Steely Dan – Aja**: rated 5/5 (2026-08-06 pick, wildcard lane). Confirms
+  that "classic rock with soul influence" (the Fleetwood Mac anchor, filtered
+  through immaculate 1977 LA-session-player analog studio rock) is a strong
+  wildcard vein — yacht rock/jazz-rock/AOR with a soul/jazz backbone lands
+  well as long as it stays groove-forward ("Peg"/"Josie") rather than
+  drifting into slow balladry.
+- **Roy Ayers Ubiquity – Everybody Loves the Sunshine**: rated 5/5
+  (2026-08-11 pick, soul/funk lane). Confirms the Hathaway lesson directly —
+  vibraphone-led jazz-funk with a punchy, danceable rhythm section (not slow
+  orchestral balladry) is a hit, and "heavily sampled + groove-forward" soul/
+  funk records are a reliable sweet spot, same as Cymande was for wildcard.
 - **RJD2 – Deadringer**: rating pending (2026-08-13 pick, Nujabes/lo-fi
-  lane). Picked as the second attempt to answer the Emancipator "boring"
-  complaint, but from a different angle than Bonobo — instead of adding
-  stronger melodic hooks to an ambient downtempo base, this goes funkier and
-  more breakbeat-driven (closer to DJ Shadow/RJD2's crate-digging,
-  scratch-heavy style) with mostly instrumental tracks and only a couple of
-  guest MC verses. Worth comparing against Bonobo's rating once both land:
-  if RJD2 also lands as "meh," the lo-fi lane itself may just underperform
-  soul/funk for him regardless of hooks-vs-energy fixes, and future lo-fi
-  picks might need an even bigger swing (e.g. toward jazzier live-instrument
-  hip-hop like Kero One or DJ Krush rather than sample-collage downtempo).
+  lane). Picked as a funkier, more breakbeat-driven answer to the
+  Emancipator complaint than Bonobo's route (hooks-over-atmosphere) — this
+  one leans on DJ Shadow/RJD2-style crate-digging and scratch-heavy
+  production instead. Worth comparing against Bonobo's 5/5 once rated: if
+  RJD2 also lands well, both "more hooks" and "funkier/breakbeat" are viable
+  fixes for the lo-fi lane; if it lands lower, hooks-over-atmosphere (the
+  Bonobo route) may be the more reliable lever.
+- **Boz Scaggs – Silk Degrees**: rating pending (2026-08-18 pick, wildcard
+  lane). Direct follow-up to the Aja success — same LA session-player pocket
+  (Paich/Porcaro/Hungate, pre-Toto) and same immaculate warm analog
+  production, but leans further into blue-eyed soul/funk-disco groove
+  ("Lowdown") than Aja's jazz-rock. Tests whether "classic rock with soul
+  influence" is durable as a wildcard vein across multiple picks, or whether
+  Aja's 5/5 was more about Steely Dan specifically (jazzier chords, more
+  virtuosic playing) than the yacht-rock/session-player pocket in general.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -90,8 +89,9 @@ History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
 wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
 wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
-Deadringer, 2026-08-13). The routine cycles through the three lanes in a
-steady soul/funk → lo-fi → wildcard order; next pick should be wildcard.
+Deadringer) → wildcard (Boz Scaggs – Silk Degrees, 2026-08-18). The routine
+cycles through the three lanes in a steady soul/funk → lo-fi → wildcard
+order; next pick should be soul/funk.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -106,7 +106,8 @@ steady soul/funk → lo-fi → wildcard order; next pick should be wildcard.
   Jon, Marumari, Shigeto, Kero One. (Nightmares on Wax, Emancipator,
   Bonobo, RJD2 used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
-  (Africa Brasil), Os Mutantes, War, Rare Earth, Little Feat, Boz Scaggs
-  (Silk Degrees — the other half of the "Aja" session-player/yacht-rock
-  pocket, if the classic-rock-with-soul-influence vein lands well).
-  (Cymande, Herbie Hancock Head Hunters, Steely Dan Aja used.)
+  (Africa Brasil), Os Mutantes, War, Rare Earth, Little Feat. (Cymande,
+  Herbie Hancock Head Hunters, Steely Dan Aja, Boz Scaggs Silk Degrees used
+  — the yacht-rock/session-player pocket is now fairly well covered; next
+  wildcard could branch toward Brazilian MPB/tropicalia or deep funk instead
+  of a third session-player pick.)
