@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-20 — Bobby Womack – Understanding (soul/funk lane)
+
+**Why it fits:** Closest to Darondo — Womack's 1972 album was cut with the Muscle Shoals rhythm section (Roger Hawkins, David Hood, Barry Beckett), giving it the same raw, gritty underground-soul bottom end as *Let My People Go*, and it stays groove-forward rather than slipping into the slow orchestral balladry that dinged Donny Hathaway. "Woman's Gotta Have It" is a punchy funk highlight, while "Harry Hippie" brings the same front-porch intimacy that landed as a 5/5 on Bill Withers' *Still Bill*.
+
+**Tracks to hear first:** "Woman's Gotta Have It" and "I Can Understand It."
+
+**Listen:** [Bobby Womack (Usa, 1972) - Understanding (Full)](https://www.youtube.com/watch?v=reBHzYjP6w8)
+
+**Price & availability:** Readily available — reissue copies typically run ~$15-20 (median around $17.60), and original 1972 United Artists pressings are similarly affordable, median around $12, ranging up to $35+ depending on condition. Not a rare pressing to chase.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-18 — Boz Scaggs – Silk Degrees (wildcard)
 
 **Why it fits:** Closest to your Fleetwood Mac anchor — this 1976 record was cut by the same overlapping pool of LA session players (David Paich, Jeff Porcaro, David Hungate, soon to form Toto) with the same immaculate warm analog studio-rock production, but leans harder into blue-eyed soul and funk-disco groove ("Lowdown," "What Can I Say") than straight pop-rock hooks. It's a direct follow-up to your 5/5 Steely Dan – Aja pick from that same session-musician pocket, testing whether the "classic rock with soul influence" vein keeps hitting as a wildcard direction.
