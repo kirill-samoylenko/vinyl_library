@@ -82,6 +82,13 @@ Working notes, not user-facing. Update after each new rating.
   influence" is durable as a wildcard vein across multiple picks, or whether
   Aja's 5/5 was more about Steely Dan specifically (jazzier chords, more
   virtuosic playing) than the yacht-rock/session-player pocket in general.
+- **Bobby Womack – Understanding**: rating pending (2026-08-20 pick,
+  soul/funk lane). Explicitly targets the Darondo anchor directly — Muscle
+  Shoals-cut, grittier and more raw than the Mayfield/Callier/Withers run,
+  testing whether "raw underground soul" (vs. the more polished/orchestral
+  end already proven to work) is an equally strong sub-vein within the
+  soul/funk lane, or whether the polish itself was part of what made those
+  picks land.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -89,18 +96,18 @@ History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
 Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator) →
 wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
 wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
-Deadringer) → wildcard (Boz Scaggs – Silk Degrees, 2026-08-18). The routine
-cycles through the three lanes in a steady soul/funk → lo-fi → wildcard
-order; next pick should be soul/funk.
+Deadringer) → wildcard (Boz Scaggs – Silk Degrees) → soul/funk (Bobby
+Womack – Understanding, 2026-08-20). The routine cycles through the three
+lanes in a steady soul/funk → lo-fi → wildcard order; next pick should be
+Nujabes/lo-fi.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
   balladry — see Hathaway note): Rotary Connection, Minnie Riperton (Come to
   My Garden — note this one leans lush/orchestral like Hathaway, so treat as
-  a slight risk unless picked for a change of pace), early Al Green, Bobby
-  Womack (Communication/Understanding — grittier, closer to Darondo).
+  a slight risk unless picked for a change of pace), early Al Green.
   (Curtis Mayfield, Terry Callier, Bill Withers, Donny Hathaway, Roy Ayers
-  Ubiquity used.)
+  Ubiquity, Bobby Womack used.)
 - Nujabes/lo-fi lane (favor instrumental-forward AND melodically memorable,
   not just atmospheric): DJ Krush (Kakusei), Jinsang, Fila Brazillia, Fat
   Jon, Marumari, Shigeto, Kero One. (Nightmares on Wax, Emancipator,
