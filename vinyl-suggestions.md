@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-25 — Fat Jon – Lightweight Heavy (Nujabes/lo-fi lane)
+
+**Why it fits:** Closest to your Nujabes anchor — Fat Jon (aka The Ample Soul Physician) was a direct Nujabes collaborator, co-producing the *Samurai Champloo Music Record* soundtracks alongside him, and this 2002 solo record works the same jazzy, sample-based, downtempo instrumental-hip-hop seam as *Modal Soul*. Per the lesson from Emancipator (boring) and Bonobo (hit), it's built on real melodic hooks — piano-led lines, dub basslines, sparkling harmonies — rather than pure atmosphere, and stays mostly instrumental with only occasional breathy vocal textures, no rap verses to trip the Donuts complaint.
+
+**Tracks to hear first:** "Talk to Me" and "Beyond Love."
+
+**Listen:** [Fat Jon - Lightweight Heavy [Full Album]](https://www.youtube.com/watch?v=96UKb3NguBI)
+
+**Price & availability:** Readily available — 2023 colored-vinyl reissues (blue/orange 2xLP) run roughly $35–44 new. The album was originally a 2002 CD-only release; the first vinyl pressing followed in 2004 (2xLP) and original copies are more of a collector's item on the secondary market.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-20 — Bobby Womack – Understanding (soul/funk lane)
 
 **Why it fits:** Closest to Darondo — Womack's 1972 album was cut with the Muscle Shoals rhythm section (Roger Hawkins, David Hood, Barry Beckett), giving it the same raw, gritty underground-soul bottom end as *Let My People Go*, and it stays groove-forward rather than slipping into the slow orchestral balladry that dinged Donny Hathaway. "Woman's Gotta Have It" is a punchy funk highlight, while "Harry Hippie" brings the same front-porch intimacy that landed as a 5/5 on Bill Withers' *Still Bill*.
