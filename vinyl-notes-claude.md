@@ -11,9 +11,10 @@ Working notes, not user-facing. Update after each new rating.
 ## Signal from ratings so far
 - **Loves** (5/5): Curtis Mayfield – Curtis, Terry Callier – What Color Is Love,
   Bill Withers – Still Bill, Cymande – Cymande, Nightmares on Wax – Smokers
-  Delight, Herbie Hancock – Head Hunters (no written thoughts, but 5/5). Soul/
-  funk lane is a near-guaranteed hit — keep picking in this vein (Rotary
-  Connection, Minnie Riperton, Bobby Womack).
+  Delight, Herbie Hancock – Head Hunters, Bonobo – Days to Come, Steely Dan –
+  Aja, Roy Ayers Ubiquity – Everybody Loves the Sunshine (no written thoughts
+  on most of these, but 5/5). Soul/funk lane is a near-guaranteed hit — keep
+  picking in this vein (Rotary Connection, Minnie Riperton, early Al Green).
 - **Meh** (3/5): J Dilla – Donuts ("too much rap going on there... not really
   my type"), Emancipator – Soon It Will Be Cold Enough ("nothing really
   stands out... honestly a bit boring"), Donny Hathaway – Everything Is
@@ -89,6 +90,17 @@ Working notes, not user-facing. Update after each new rating.
   end already proven to work) is an equally strong sub-vein within the
   soul/funk lane, or whether the polish itself was part of what made those
   picks land.
+- **Fat Jon – Lightweight Heavy**: rating pending (2026-08-25 pick,
+  Nujabes/lo-fi lane). Picked for maximum anchor-closeness — Fat Jon was a
+  direct Nujabes collaborator (Samurai Champloo Music Record soundtracks),
+  and reviews specifically flag "melody-rich" hooks and beautiful melodies
+  rather than pure atmosphere, targeting the same fix that worked for
+  Bonobo. Mostly instrumental with only occasional breathy vocal textures
+  (no rap verses). If this lands well, "melody-rich + literal Nujabes
+  pedigree" is confirmed as the strongest lo-fi-lane formula; if it lands
+  as "boring" despite the melody-forward reviews, the lo-fi lane may need to
+  lean funkier/breakbeat-driven (RJD2 route) rather than downtempo/mellow
+  (Bonobo/Fat Jon route) regardless of hook density.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -97,9 +109,9 @@ Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator)
 wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
 wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
 Deadringer) → wildcard (Boz Scaggs – Silk Degrees) → soul/funk (Bobby
-Womack – Understanding, 2026-08-20). The routine cycles through the three
-lanes in a steady soul/funk → lo-fi → wildcard order; next pick should be
-Nujabes/lo-fi.
+Womack – Understanding) → lo-fi (Fat Jon – Lightweight Heavy, 2026-08-25).
+The routine cycles through the three lanes in a steady soul/funk → lo-fi →
+wildcard order; next pick should be a wildcard.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -109,9 +121,11 @@ Nujabes/lo-fi.
   (Curtis Mayfield, Terry Callier, Bill Withers, Donny Hathaway, Roy Ayers
   Ubiquity, Bobby Womack used.)
 - Nujabes/lo-fi lane (favor instrumental-forward AND melodically memorable,
-  not just atmospheric): DJ Krush (Kakusei), Jinsang, Fila Brazillia, Fat
-  Jon, Marumari, Shigeto, Kero One. (Nightmares on Wax, Emancipator,
-  Bonobo, RJD2 used.)
+  not just atmospheric): DJ Krush (Kakusei — note: has a couple of guest-rap
+  features, so vet for rap-heaviness before picking), Jinsang, Fila
+  Brazillia, Marumari, Shigeto, Kero One (note: Kero One raps on some
+  tracks himself, vet carefully). (Nightmares on Wax, Emancipator, Bonobo,
+  RJD2, Fat Jon used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
   (Africa Brasil), Os Mutantes, War, Rare Earth, Little Feat. (Cymande,
   Herbie Hancock Head Hunters, Steely Dan Aja, Boz Scaggs Silk Degrees used
