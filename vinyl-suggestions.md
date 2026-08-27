@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-08-27 — Jorge Ben – Africa Brasil (wildcard)
+
+**Why it fits:** Closest to Marvin Gaye and Darondo in warmth and groove — this 1976 Brazilian classic wraps samba-funk rhythm and crunching guitar around the same raw, horn-and-percussion low end you loved on Cymande (5/5), while staying firmly in the groove pocket rather than drifting toward the afrobeat direction that missed for you. It's also one of the most sampled records in hip-hop and Brazilian music (De La Soul, MF DOOM, countless others), so like Roy Ayers and Cymande it quietly threads back into the crate-digging DNA behind your Nujabes anchor without repeating a genre already used.
+
+**Tracks to hear first:** "Ponta de Lança Africano (Umbabarauma)" and "Taj Mahal."
+
+**Listen:** [JORGE BEN - África Brasil (1976) - Full Album](https://www.youtube.com/watch?v=HLbW0cyZXDE)
+
+**Price & availability:** Readily available — reissues (including the 2019 Vinyl Me Please yellow 180g edition and later standard repress) typically run $40–50 new/near-new. Original 1976/77 Brazilian and European pressings float in a similar $35–55 range on Discogs depending on territory and condition, with Japanese pressings a pricier outlier (~$70+) — not a rare pressing to chase.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-25 — Fat Jon – Lightweight Heavy (Nujabes/lo-fi lane)
 
 **Why it fits:** Closest to your Nujabes anchor — Fat Jon (aka The Ample Soul Physician) was a direct Nujabes collaborator, co-producing the *Samurai Champloo Music Record* soundtracks alongside him, and this 2002 solo record works the same jazzy, sample-based, downtempo instrumental-hip-hop seam as *Modal Soul*. Per the lesson from Emancipator (boring) and Bonobo (hit), it's built on real melodic hooks — piano-led lines, dub basslines, sparkling harmonies — rather than pure atmosphere, and stays mostly instrumental with only occasional breathy vocal textures, no rap verses to trip the Donuts complaint.
