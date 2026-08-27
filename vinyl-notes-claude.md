@@ -101,6 +101,19 @@ Working notes, not user-facing. Update after each new rating.
   as "boring" despite the melody-forward reviews, the lo-fi lane may need to
   lean funkier/breakbeat-driven (RJD2 route) rather than downtempo/mellow
   (Bonobo/Fat Jon route) regardless of hook density.
+- **Jorge Ben – Africa Brasil**: rating pending (2026-08-27 pick, wildcard
+  lane). First branch away from the yacht-rock/session-player wildcard vein
+  (Herbie Hancock/Steely Dan/Boz Scaggs) per the ideas-bank note — Brazilian
+  samba-funk instead, explicitly chosen to test the "Brazilian MPB/
+  tropicalia" direction flagged back in the Fela Kuti afrobeat post-mortem.
+  Stays anchored in groove/horns/percussion (like Cymande, which is the
+  closest comp) rather than drifting toward the polyrhythmic-but-uneasy
+  territory that lost with Fela Kuti. If this lands well, Brazilian
+  funk/tropicalia (Os Mutantes, Tim Maia, Marcos Valle) opens up as a second
+  reliable wildcard vein alongside session-player yacht rock; if it lands
+  closer to Fela Kuti, the wildcard lane may need to stay closer to
+  American/British soul-funk-adjacent territory instead of going
+  international.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -109,9 +122,10 @@ Wax) → wildcard (Cymande) → soul/funk (Bill Withers) → lo-fi (Emancipator)
 wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
 wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
 Deadringer) → wildcard (Boz Scaggs – Silk Degrees) → soul/funk (Bobby
-Womack – Understanding) → lo-fi (Fat Jon – Lightweight Heavy, 2026-08-25).
+Womack – Understanding) → lo-fi (Fat Jon – Lightweight Heavy) → wildcard
+(Jorge Ben – Africa Brasil, 2026-08-27).
 The routine cycles through the three lanes in a steady soul/funk → lo-fi →
-wildcard order; next pick should be a wildcard.
+wildcard order; next pick should be soul/funk.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -126,9 +140,10 @@ wildcard order; next pick should be a wildcard.
   Brazillia, Marumari, Shigeto, Kero One (note: Kero One raps on some
   tracks himself, vet carefully). (Nightmares on Wax, Emancipator, Bonobo,
   RJD2, Fat Jon used.)
-- Wildcard lane (stay near the groove pocket, avoid afrobeat): Jorge Ben
-  (Africa Brasil), Os Mutantes, War, Rare Earth, Little Feat. (Cymande,
-  Herbie Hancock Head Hunters, Steely Dan Aja, Boz Scaggs Silk Degrees used
-  — the yacht-rock/session-player pocket is now fairly well covered; next
-  wildcard could branch toward Brazilian MPB/tropicalia or deep funk instead
-  of a third session-player pick.)
+- Wildcard lane (stay near the groove pocket, avoid afrobeat): Os Mutantes,
+  Tim Maia, Marcos Valle, War, Rare Earth, Little Feat. (Cymande, Herbie
+  Hancock Head Hunters, Steely Dan Aja, Boz Scaggs Silk Degrees, Jorge Ben
+  Africa Brasil used — the yacht-rock/session-player pocket is now well
+  covered by three picks; Jorge Ben opens a Brazilian funk/tropicalia
+  sub-vein worth continuing with Tim Maia or Marcos Valle if it rates well,
+  or backing off internationally if it lands closer to the Fela Kuti miss.)
