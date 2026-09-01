@@ -114,6 +114,18 @@ Working notes, not user-facing. Update after each new rating.
   closer to Fela Kuti, the wildcard lane may need to stay closer to
   American/British soul-funk-adjacent territory instead of going
   international.
+- **Al Green – Let's Stay Together**: rating pending (2026-09-01 pick,
+  soul/funk lane). Picked as the polished, Hi-Records/Willie-Mitchell
+  counterpart to Bobby Womack's rawer Muscle Shoals pick two picks back —
+  same soul/funk lane, opposite end of the polish spectrum, both targeting
+  slightly different sides of the Darondo/Marvin Gaye split. Leans on the
+  punchy Hi Rhythm Section (Al Jackson Jr.) to stay groove-forward per the
+  Hathaway lesson, rather than sliding into pure balladry despite being a
+  famously "smooth" record. Once rated, compare against Womack: if both
+  land as 5/5s, the soul/funk lane's near-guaranteed-hit status holds
+  regardless of raw-vs-polished production; if only one lands, that tells us
+  which end of the polish spectrum is the safer default for this lane going
+  forward.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -123,17 +135,18 @@ wildcard (Herbie Hancock) → soul/funk (Donny Hathaway) → lo-fi (Bonobo) →
 wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
 Deadringer) → wildcard (Boz Scaggs – Silk Degrees) → soul/funk (Bobby
 Womack – Understanding) → lo-fi (Fat Jon – Lightweight Heavy) → wildcard
-(Jorge Ben – Africa Brasil, 2026-08-27).
+(Jorge Ben – Africa Brasil) → soul/funk (Al Green – Let's Stay Together,
+2026-09-01).
 The routine cycles through the three lanes in a steady soul/funk → lo-fi →
-wildcard order; next pick should be soul/funk.
+wildcard order; next pick should be lo-fi (Nujabes/lo-fi lane).
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
   balladry — see Hathaway note): Rotary Connection, Minnie Riperton (Come to
   My Garden — note this one leans lush/orchestral like Hathaway, so treat as
-  a slight risk unless picked for a change of pace), early Al Green.
-  (Curtis Mayfield, Terry Callier, Bill Withers, Donny Hathaway, Roy Ayers
-  Ubiquity, Bobby Womack used.)
+  a slight risk unless picked for a change of pace). (Curtis Mayfield,
+  Terry Callier, Bill Withers, Donny Hathaway, Roy Ayers Ubiquity, Bobby
+  Womack, Al Green used.)
 - Nujabes/lo-fi lane (favor instrumental-forward AND melodically memorable,
   not just atmospheric): DJ Krush (Kakusei — note: has a couple of guest-rap
   features, so vet for rap-heaviness before picking), Jinsang, Fila
