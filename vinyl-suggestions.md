@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-09-01 — Al Green – Let's Stay Together (soul/funk lane)
+
+**Why it fits:** Closest to Marvin Gaye's lush orchestral soul warmth — cut at Royal Studios in Memphis with producer Willie Mitchell, it has the same punchy, forward-driving Hi Rhythm Section (Al Jackson Jr.'s drums, tight horn stabs) that made Curtis Mayfield, Terry Callier, Bill Withers, and Roy Ayers land as 5/5s, steering clear of the slower, string-heavy balladry that dinged Donny Hathaway. It's also the polished, radio-soul counterpart to the rawer Darondo-leaning Bobby Womack pick from a couple weeks back — same soul/funk lane, opposite end of the polish spectrum.
+
+**Tracks to hear first:** "Let's Stay Together" and "La-La for You."
+
+**Listen:** [Al Green - Let's Stay Together (full album)](https://www.youtube.com/watch?v=ImcCmVMLT1M)
+
+**Price & availability:** Readily available — it was a multi-platinum smash, so original 1972 Hi Records pressings are common and affordable, with Discogs sold prices typically landing around $20–25 depending on condition and pressing plant (ranging from bargain-bin copies up to $100+ for pristine ones). A 2015 Fat Possum/Concord 180g reissue is also in print, running roughly $25–30 new.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-08-27 — Jorge Ben – Africa Brasil (wildcard)
 
 **Why it fits:** Closest to Marvin Gaye and Darondo in warmth and groove — this 1976 Brazilian classic wraps samba-funk rhythm and crunching guitar around the same raw, horn-and-percussion low end you loved on Cymande (5/5), while staying firmly in the groove pocket rather than drifting toward the afrobeat direction that missed for you. It's also one of the most sampled records in hip-hop and Brazilian music (De La Soul, MF DOOM, countless others), so like Roy Ayers and Cymande it quietly threads back into the crate-digging DNA behind your Nujabes anchor without repeating a genre already used.
