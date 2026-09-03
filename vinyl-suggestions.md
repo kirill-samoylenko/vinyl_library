@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-09-03 — DJ Cam – Underground Vibes (Nujabes/lo-fi lane)
+
+**Why it fits:** Closest to your Nujabes anchor — this 1995 French debut (also released stateside as *Mad Blunted Jazz*) is widely cited as one of the first fully-realized instrumental hip-hop albums, built from moody jazz and funk samples chopped into hazy, turntablist-driven beats, effectively laying the groundwork for the exact "sample-based jazzy instrumental hip-hop" lane *Modal Soul* would later refine. It stays instrumental-forward per the Donuts lesson, and its atmospheric-but-groove-driven jazz sampling sits closer to the Bonobo/Fat Jon hook-forward end of the lane than to Emancipator's "boring" ambience.
+
+**Tracks to hear first:** "Mad Blunted Jazz" and "Underground Vibes."
+
+**Listen:** [DJ CAM – MAD BLUNTED JAZZ (1996) | Full Album](https://www.youtube.com/watch?v=zeuDmsaRxPA)
+
+**Price & availability:** A hand-numbered 180g 30th Anniversary reissue (Diggers Factory, limited to 1000 copies) just came out in October 2025 and is still in print, typically running $35–40 new. Original 1995 French and 1997 2xLP US pressings (released as *Mad Blunted Jazz*) are rarer collector's items on the secondary market.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-09-01 — Al Green – Let's Stay Together (soul/funk lane)
 
 **Why it fits:** Closest to Marvin Gaye's lush orchestral soul warmth — cut at Royal Studios in Memphis with producer Willie Mitchell, it has the same punchy, forward-driving Hi Rhythm Section (Al Jackson Jr.'s drums, tight horn stabs) that made Curtis Mayfield, Terry Callier, Bill Withers, and Roy Ayers land as 5/5s, steering clear of the slower, string-heavy balladry that dinged Donny Hathaway. It's also the polished, radio-soul counterpart to the rawer Darondo-leaning Bobby Womack pick from a couple weeks back — same soul/funk lane, opposite end of the polish spectrum.

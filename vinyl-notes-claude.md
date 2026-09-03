@@ -126,6 +126,19 @@ Working notes, not user-facing. Update after each new rating.
   regardless of raw-vs-polished production; if only one lands, that tells us
   which end of the polish spectrum is the safer default for this lane going
   forward.
+- **DJ Cam – Underground Vibes**: rating pending (2026-09-03 pick,
+  Nujabes/lo-fi lane). Went further back in the lineage than any lo-fi pick
+  so far — an 1995 foundational instrumental hip-hop record (predates
+  Modal Soul by a decade) built on jazz/funk samples and turntablism,
+  landing between the atmospheric end (Emancipator, "boring") and the
+  hook-forward end (Bonobo/Fat Jon, both likely hits) of the lane. No direct
+  Nujabes collaboration link like Fat Jon had, but a strong genealogical
+  claim as a genre originator. If it lands well, "genre-originator" records
+  (DJ Shadow's Endtroducing next, or DJ Cam's own later, more song-based
+  albums) are confirmed as a viable lo-fi-lane vein; if it lands as "boring"
+  like Emancipator, the lane should stick closer to hook-dense, more
+  song-structured picks (Bonobo/Fat Jon route) over pure
+  atmosphere-and-turntablism, however historically important.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -136,9 +149,9 @@ wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
 Deadringer) → wildcard (Boz Scaggs – Silk Degrees) → soul/funk (Bobby
 Womack – Understanding) → lo-fi (Fat Jon – Lightweight Heavy) → wildcard
 (Jorge Ben – Africa Brasil) → soul/funk (Al Green – Let's Stay Together,
-2026-09-01).
+2026-09-01) → lo-fi (DJ Cam – Underground Vibes, 2026-09-03).
 The routine cycles through the three lanes in a steady soul/funk → lo-fi →
-wildcard order; next pick should be lo-fi (Nujabes/lo-fi lane).
+wildcard order; next pick should be wildcard.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -148,11 +161,17 @@ wildcard order; next pick should be lo-fi (Nujabes/lo-fi lane).
   Terry Callier, Bill Withers, Donny Hathaway, Roy Ayers Ubiquity, Bobby
   Womack, Al Green used.)
 - Nujabes/lo-fi lane (favor instrumental-forward AND melodically memorable,
-  not just atmospheric): DJ Krush (Kakusei — note: has a couple of guest-rap
-  features, so vet for rap-heaviness before picking), Jinsang, Fila
-  Brazillia, Marumari, Shigeto, Kero One (note: Kero One raps on some
-  tracks himself, vet carefully). (Nightmares on Wax, Emancipator, Bonobo,
-  RJD2, Fat Jon used.)
+  not just atmospheric): DJ Krush (mostly instrumental catalog, but vet each
+  album carefully — *Zen* is too rap/feature-heavy with Black Thought,
+  Company Flow, etc.; earlier/rawer records may fit better), Jinsang, Fila
+  Brazillia, Marumari, Shigeto (*Lineage* is a strong on-genre candidate —
+  instrumental, jazz/Dilla-boom-clack-influenced, Ghostly International —
+  but no confirmed full-album YouTube upload was found as of 2026-09-03, so
+  it was passed over for a lane pick; worth revisiting once a full-album
+  link surfaces, or note that individual tracks are on YouTube if a
+  playlist link is ever needed instead), Kero One (note: Kero One raps on
+  some tracks himself, vet carefully). (Nightmares on Wax, Emancipator,
+  Bonobo, RJD2, Fat Jon, DJ Cam used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Os Mutantes,
   Tim Maia, Marcos Valle, War, Rare Earth, Little Feat. (Cymande, Herbie
   Hancock Head Hunters, Steely Dan Aja, Boz Scaggs Silk Degrees, Jorge Ben
