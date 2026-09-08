@@ -17,6 +17,22 @@ Great vibe overall! I only skipped a few tracks when the vibe didn't quite match
 
 ## History
 
+### 2026-09-08 — Tim Maia – Tim Maia (wildcard)
+
+**Why it fits:** Closest to Marvin Gaye and Darondo — Tim Maia's self-titled 1970 debut is Brazilian soul cut from the same Motown/James-Brown-influenced cloth, all punchy horns and a forward-driving rhythm section rather than slow orchestral balladry. It continues the Brazilian funk/tropicalia sub-vein opened by Jorge Ben's *Africa Brasil*, staying anchored in the same warm, horn-and-groove pocket as Cymande rather than drifting toward the uneasy polyrhythmic feel that missed with Fela Kuti's afrobeat.
+
+**Tracks to hear first:** "Primavera" and "Coroné Antônio Bento."
+
+**Listen:** [Tim Maia - Self Titled (Full Album)](https://www.youtube.com/watch?v=toSityO2-3A)
+
+**Price & availability:** Fairly available — the Polysom 180g reissue ("Clássicos em Vinil" series) typically runs ~$30-45 domestically in Brazil, though import/overseas retailers list it higher (roughly $45-75 depending on shipping). The original 1970 CBD-Philips/Polydor mono pressing (it went gold, selling 200,000+ copies in Brazil) is more of a rarer, harder-to-find collector's item outside Brazil.
+
+**My thoughts:**
+
+**Rating:** ☆☆☆☆☆
+
+---
+
 ### 2026-09-03 — DJ Cam – Underground Vibes (Nujabes/lo-fi lane)
 
 **Why it fits:** Closest to your Nujabes anchor — this 1995 French debut (also released stateside as *Mad Blunted Jazz*) is widely cited as one of the first fully-realized instrumental hip-hop albums, built from moody jazz and funk samples chopped into hazy, turntablist-driven beats, effectively laying the groundwork for the exact "sample-based jazzy instrumental hip-hop" lane *Modal Soul* would later refine. It stays instrumental-forward per the Donuts lesson, and its atmospheric-but-groove-driven jazz sampling sits closer to the Bonobo/Fat Jon hook-forward end of the lane than to Emancipator's "boring" ambience.
