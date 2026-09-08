@@ -139,6 +139,20 @@ Working notes, not user-facing. Update after each new rating.
   like Emancipator, the lane should stick closer to hook-dense, more
   song-structured picks (Bonobo/Fat Jon route) over pure
   atmosphere-and-turntablism, however historically important.
+- **Tim Maia – Tim Maia**: rating pending (2026-09-08 pick, wildcard lane).
+  Directly continues the Brazilian funk/tropicalia sub-vein Jorge Ben opened
+  (still pending rating itself) — Tim Maia's 1970 self-titled debut is
+  Brazilian soul filtered through Motown/James Brown influence: punchy
+  horns, forward rhythm section, sung in Portuguese but structurally very
+  close to the soul/funk anchors. Picked ahead of Jorge Ben's rating coming
+  back, as a calculated bet that the Brazilian-groove direction (vs. the
+  polyrhythmic-but-uneasy Fela Kuti miss) is sound on genre grounds alone
+  (horn-and-groove pocket, not afrobeat's polyrhythms). Once both Jorge Ben
+  and Tim Maia are rated: if both land well, Brazilian soul/funk
+  (Tim Maia's other early-70s albums, Marcos Valle, Os Mutantes) is
+  confirmed as a second reliable wildcard vein; if either lands poorly,
+  slow down on Brazilian picks and lean back into the proven yacht-rock/
+  session-player vein (War, Rare Earth, Little Feat) instead.
 
 ## Lane rotation pattern observed
 History order (oldest → newest): soul/funk (Terry Callier) → lo-fi (J Dilla)
@@ -149,9 +163,10 @@ wildcard (Steely Dan) → soul/funk (Roy Ayers Ubiquity) → lo-fi (RJD2 –
 Deadringer) → wildcard (Boz Scaggs – Silk Degrees) → soul/funk (Bobby
 Womack – Understanding) → lo-fi (Fat Jon – Lightweight Heavy) → wildcard
 (Jorge Ben – Africa Brasil) → soul/funk (Al Green – Let's Stay Together,
-2026-09-01) → lo-fi (DJ Cam – Underground Vibes, 2026-09-03).
+2026-09-01) → lo-fi (DJ Cam – Underground Vibes, 2026-09-03) → wildcard
+(Tim Maia – Tim Maia, 2026-09-08).
 The routine cycles through the three lanes in a steady soul/funk → lo-fi →
-wildcard order; next pick should be wildcard.
+wildcard order; next pick should be soul/funk.
 
 ## Ideas bank for future picks
 - Soul/funk lane (favor punchier/groove-forward over slow orchestral
@@ -173,9 +188,9 @@ wildcard order; next pick should be wildcard.
   some tracks himself, vet carefully). (Nightmares on Wax, Emancipator,
   Bonobo, RJD2, Fat Jon, DJ Cam used.)
 - Wildcard lane (stay near the groove pocket, avoid afrobeat): Os Mutantes,
-  Tim Maia, Marcos Valle, War, Rare Earth, Little Feat. (Cymande, Herbie
+  Marcos Valle, War, Rare Earth, Little Feat. (Cymande, Herbie
   Hancock Head Hunters, Steely Dan Aja, Boz Scaggs Silk Degrees, Jorge Ben
-  Africa Brasil used — the yacht-rock/session-player pocket is now well
-  covered by three picks; Jorge Ben opens a Brazilian funk/tropicalia
-  sub-vein worth continuing with Tim Maia or Marcos Valle if it rates well,
-  or backing off internationally if it lands closer to the Fela Kuti miss.)
+  Africa Brasil, Tim Maia (self-titled 1970) used — two picks now sit in
+  the Brazilian funk/tropicalia sub-vein alongside the three-deep yacht-rock/
+  session-player pocket; watch how both Jorge Ben and Tim Maia rate before
+  reaching for a third Brazilian pick back-to-back.)
